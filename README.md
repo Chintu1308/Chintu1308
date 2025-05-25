@@ -1,37 +1,95 @@
-# 👋 Hey there, I'm Bongu Hari Hara Charan!
+<h1 align="center">👋 Hey there, I'm Bongu Hari Hara Charan!</h1>
+<h3 align="center">Computer Science Undergraduate | Cyber Forensics Enthusiast | Tech Community Contributor</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+%7C+Web+Dev+%7C+AI+in+Law+%26+Security;Cyber+Forensics+%26+Digital+Investigations;Community+Leadership+%26+Global+Impact&center=true&width=600&height=45">
+</p>
+
+---
 
 ## 🚀 About Me
-I'm a **cybersecurity enthusiast**, **developer**, and **tech speaker** passionate about **cyber forensics**, **digital safety**, and **AI-powered legal assistance**. Currently, I'm working on **Borderless Safety**, a comprehensive travel intelligence platform that bridges legal, cultural, and practical gaps for international travelers. 
+I'm a **cybersecurity enthusiast**, **developer**, and **tech speaker** passionate about **cyber forensics**, **digital safety**, and **AI-powered legal assistance**. Currently, I'm working on **Borderless Safety**, a comprehensive travel intelligence platform that bridges legal, cultural, and practical gaps for international travelers.
+
+---
 
 ## 🔬 Research & Projects
-- **Borderless Safety** 🌍✈️ – International travel intelligence platform providing **legal comparisons, cultural insights, and practical tools**.
-- **Custom AI for Legal Assistance** 🤖⚖️ – A specialized AI trained country-by-country to provide **legal guidance** and **travel compliance insights**.
-- **Cybersecurity Content Creator** 🔐📖 – Creating engaging and informative **cybersecurity awareness posts** with interactive examples.
-- **Git & DevOps Speaker** 🎤 – Conducted a **2-hour workshop on Git**, helping developers master version control.
-- **Magazine Editing & Writing** 📰 – Contributing to **tech magazines**, ensuring high-quality and informative content.
 
-## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, TypeScript
-- **Frontend:** React (TypeScript, Tailwind, Framer Motion, Vite)
-- **Backend & Security:** API Integrations, HTTPS, CSRF/XSS Protection
-- **Tools & Platforms:** Git, GitHub, Linux, Docker
+- **🌍 Borderless Safety** – Travel intelligence platform offering legal comparisons, cultural insights, and health/safety tools.
+- **🤖 Custom AI for Legal Assistance** – Country-wise AI for legal guidance and compliance analysis.
+- **🔐 Cybersecurity Awareness Creator** – Posts and sessions that educate with interactive examples.
+- **🎤 Git & DevOps Speaker** – Conducted live Git workshops with hands-on learning.
+- **📰 Magazine Contributor** – Editing and writing for technical publications.
 
-## 📚 Learning & Interests
-- 📖 **Cyber Forensics & Digital Investigations**
-- 🏛️ **Operating Systems & System Security**
-- 🤖 **AI & ML for Legal and Cybersecurity Applications**
-- 🛡️ **Privacy & Digital Safety Advocacy**
+---
 
-## 🌎 Community & Engagement
-- 🎤 **Workshops & Training** – Conducting cybersecurity awareness sessions and Git workshops.
-- ✍️ **Content Writing** – Creating cybersecurity content, magazine editing, and research papers.
-- 🎬 **YouTube Videos** – Sharing cybersecurity insights and tutorials.
+## 💡 Skills & Technologies
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chintu1308&show_icons=true&theme=dark)
+**Programming Languages:**  
+`C` `Python` `Java` `JavaScript` `TypeScript`
 
-## 📫 Let's Connect!
-- **LinkedIn:** [bhhc](https://www.linkedin.com/in/bhhc)
-- **Email:** bhhc1308@gmail.com
+**Frontend:**  
+`HTML` `CSS` `React` `Tailwind` `Framer Motion` `Vite`
 
-🔐 *Passionate about cybersecurity, digital safety, and tech innovation. Let's build a safer and smarter digital world!* 🚀
+**Backend & Tools:**  
+`Node.js` `Git` `GitHub` `VS Code` `Chrome API` `Docker`
+
+**Other Skills:**  
+`Event Management` `Visual Design` `Audio Editing` `Figma` `Canva`
+
+---
+
+## 🌱 Interests
+
+- 📖 Cyber Forensics & Digital Investigations  
+- 🧠 AI/ML in Security and Legal Tech  
+- 🌐 System Security & OS Concepts  
+- 🛡️ Privacy Advocacy & Digital Literacy  
+
+---
+
+## 🏆 Experience & Leadership
+
+- **Joint Secretary – GCCC** *(2023–Present)*  
+  Led cultural and technical initiatives, team management, marketing, and events.
+  
+- **Technical Team – GCCC** *(2022–2023)*  
+  Oversaw event logistics, creative content production, and tech support.
+  
+- **Supporting Member – AsCI** *(2022–Present)*  
+  Ran cybersecurity awareness campaigns and AI workshops.
+
+- **Chronicle Editor – College Chronicle** *(2022–Present)*  
+  Managed editorial workflow and campus journalism.
+
+---
+
+## 📚 Education
+
+- 🎓 **B.Tech in CSE** – GVP College of Engineering *(2023–2027)*  
+- 📘 **Intermediate** – SRI VISWA *(2021–2023)*  
+- 🏫 **Schooling** – Dr. K.K.R's Gowtham School *(2015–2021)*  
+- 🏫 **Primary** – Lakshmipat Singhania Public School *(2009–2015)*
+
+---
+
+## 🧾 Certifications
+
+- ✅ Cybersecurity Internship – *Palo Alto Networks*  
+- ✅ ML for Cybersecurity – *PSSDC / C-DAC*  
+- ✅ C++ Basics – *edX*  
+- ✅ Cybersecurity Basics – *edX*  
+- ✅ Python for Data Science – *edX*  
+- ✅ Intro to Cybersecurity – *Cisco*
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: bhhc1308@gmail.com  
+- 💼 LinkedIn: [bhhc](https://www.linkedin.com/in/bhhc)  
+- 💻 GitHub: [Chintu1308](https://github.com/Chintu1308)  
+- 🌍 LinkTree: [bhhc1308](https://linktr.ee/bhhc1308)
+
+---
+
+🔐 *Passionate about cybersecurity, digital safety, and tech innovation. Let’s build a safer and smarter digital world together!* 🚀
