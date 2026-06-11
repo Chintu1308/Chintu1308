@@ -15,7 +15,8 @@ I'm a **cybersecurity enthusiast**, **developer**, and **tech speaker** passiona
 ## 🔬 Research & Projects
 
 - **🌍 Borderless Safety** – Travel intelligence platform offering legal comparisons, cultural insights, and health/safety tools.
-- **🤖 Custom AI for Legal Assistance** – Country-wise AI for legal guidance and compliance analysis.
+- **Energy Meter** – A real-time, responsive IoT dashboard built with Next.js 14, React, Tailwind CSS, and MQTT. Designed for real-time monitoring.
+- **Patent Publication (Indian Patent Office)** - Artificial Intelligence (AI)–Based System for Detection and Response to Aquatic Safety Events and Method Thereof 
 - **🔐 Cybersecurity Awareness Creator** – Posts and sessions that educate with interactive examples.
 - **🎤 Git & DevOps Speaker** – Conducted live Git workshops with hands-on learning.
 - **📰 Magazine Contributor** – Editing and writing for technical publications.
@@ -85,6 +86,7 @@ I'm a **cybersecurity enthusiast**, **developer**, and **tech speaker** passiona
 
 ## 🌐 Connect with Me
 
+- 🌐Website: [bhhc.me](https://bhhc.me/)
 - 📧 Email: bhhc1308@gmail.com  
 - 💼 LinkedIn: [bhhc](https://www.linkedin.com/in/bhhc)  
 - 💻 GitHub: [Chintu1308](https://github.com/Chintu1308)  
